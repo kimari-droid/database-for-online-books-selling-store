@@ -1,1 +1,1 @@
-## Came up with a database for an online books selling store
+## Came up with a database for an online books selling store.
